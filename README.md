@@ -19,3 +19,5 @@ Compiled 03 July 2017, including:
 * OpenWRT version DESIGNATED DRIVER (Bleeding Edge, 50107)
 
 * Open vSwitch version 2.7.0
+
+See http://nmeta.readthedocs.io/en/develop/userguide/build_a_lab.html#openwrt-with-open-vswitch for more information
